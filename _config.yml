@@ -79,8 +79,8 @@ theme: book
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  # repo: https://github.com/zhaowei97/zhaowei97.github.io
-  branch: writing
+  repo: https://github.com/zhaowei97/zhaowei97.github.io
+  branch: main
 
 markdown:
   render:
