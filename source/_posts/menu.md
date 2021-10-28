@@ -1,5 +1,4 @@
 * [Home](/home)
-* [Changelog](/changelog)
 
 ## JavaScript基础
 
@@ -19,13 +18,26 @@
 * [中文測試](/hexo-theme-book-demo/test/hexo-unit-test/中文測試)
 * [日本語テスト](/hexo-theme-book-demo/test/hexo-unit-test/日本語テスト)
 
-## bugfix
+## CSS相关
 
 * [list test](/hexo-theme-book-demo/test/bugfix/list-test)
 * [blockquote position](/hexo-theme-book-demo/test/bugfix/blockquote-position)
 * [checkbox list](/hexo-theme-book-demo/test/bugfix/checkbox-list)
 
-## lots of post in submenu 
+## 计算机网络
+
+* [list test](/hexo-theme-book-demo/test/bugfix/list-test)
+* [blockquote position](/hexo-theme-book-demo/test/bugfix/blockquote-position)
+* [输入url到页面展示发生了什么](/输入url到页面展示发生了什么)
+
+## 算法
+
+## TypeScript
+
+* [list test](/hexo-theme-book-demo/test/bugfix/list-test)
+* [blockquote position](/hexo-theme-book-demo/test/bugfix/blockquote-position)
+* [checkbox list](/hexo-theme-book-demo/test/bugfix/checkbox-list)
+## React
 
 * .
 * Fix bug:
@@ -63,21 +75,8 @@
 * Test 34
 * Test 35
 
-# Demo
+## 项目总结
 
 * [Menu Realtime Demo](/hexo-theme-book-demo/demo/menu-realtime)
-
-## Render
-
 * [markdown-it demo](/hexo-theme-book-demo/demo/render/markdown-it-demo)
-* [katex demo](/hexo-theme-book-demo/demo/render/katex-demo)
-* [footnotes demo](/hexo-theme-book-demo/demo/render/footnotes-demo)
-* [markdown-container](/hexo-theme-book-demo/demo/render/md-container)
 
-## Lorem Ipsum
-
-* [English](/hexo-theme-book-demo/demo/lorem-ipsum/en-demo)
-* [Japanese](/hexo-theme-book-demo/demo/lorem-ipsum/jp-demo)
-* [Korean](/hexo-theme-book-demo/demo/lorem-ipsum/kr-demo)
-* [Traditional Chinese](/hexo-theme-book-demo/demo/lorem-ipsum/tc-demo)
-* [Simplified Chinese](/hexo-theme-book-demo/demo/lorem-ipsum/sc-demo)
