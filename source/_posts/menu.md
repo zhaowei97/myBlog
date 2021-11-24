@@ -26,7 +26,7 @@
 
 ## 计算机网络
 
-* [list test](/hexo-theme-book-demo/test/bugfix/list-test)
+* [网络安全相关](/网络安全)
 * [blockquote position](/hexo-theme-book-demo/test/bugfix/blockquote-position)
 * [输入url到页面展示发生了什么](/输入url到页面展示发生了什么)
 
