@@ -2,7 +2,7 @@
 
 ## JavaScript基础
 
-* [Categories](/hexo-theme-book-demo/test/hexo-unit-test/categories)
+* [执行上下文](/执行上下文)
 * [Elements](/hexo-theme-book-demo/test/hexo-unit-test/elements)
 * [Excerpts](/hexo-theme-book-demo/test/hexo-unit-test/excerpts)
 * [Gallery Post](/hexo-theme-book-demo/test/hexo-unit-test/gallery-post)
