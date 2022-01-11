@@ -3,7 +3,7 @@
 ## JavaScript基础
 
 * [执行上下文](/执行上下文)
-* [Elements](/hexo-theme-book-demo/test/hexo-unit-test/elements)
+* [作用域和作用域链](/作用域和作用域链)
 * [Excerpts](/hexo-theme-book-demo/test/hexo-unit-test/excerpts)
 * [Gallery Post](/hexo-theme-book-demo/test/hexo-unit-test/gallery-post)
 * [Hello World](/hexo-theme-book-demo/test/hexo-unit-test/hello-world)
