@@ -4,7 +4,7 @@
 
 * [执行上下文](/执行上下文)
 * [作用域和作用域链](/作用域和作用域链)
-* [Excerpts](/hexo-theme-book-demo/test/hexo-unit-test/excerpts)
+* [闭包](/闭包)
 * [Gallery Post](/hexo-theme-book-demo/test/hexo-unit-test/gallery-post)
 * [Hello World](/hexo-theme-book-demo/test/hexo-unit-test/hello-world)
 * [Images](/hexo-theme-book-demo/test/hexo-unit-test/images)
