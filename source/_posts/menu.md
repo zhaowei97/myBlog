@@ -2,11 +2,11 @@
 
 ## JavaScript基础
 
-* [执行上下文](/执行上下文)
-* [作用域和作用域链](/作用域和作用域链)
-* [闭包](/闭包)
-* [this](/this)
-* [call、apply、bind实现](/call、apply、bind实现)
+* [执行上下文](JavaScript/执行上下文)
+* [作用域和作用域链](JavaScript/作用域和作用域链)
+* [闭包](JavaScript/闭包)
+* [this](JavaScript/this)
+* [call、apply、bind实现](JavaScript/call、apply、bind实现)
 * [Images](/hexo-theme-book-demo/test/hexo-unit-test/images)
 * [Untitled](/hexo-theme-book-demo/test/hexo-unit-test/link-post-without-title)
 * [Link Post](/hexo-theme-book-demo/test/hexo-unit-test/link-post)
