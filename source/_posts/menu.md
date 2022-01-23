@@ -7,16 +7,8 @@
 * [闭包](JavaScript/闭包)
 * [this](JavaScript/this)
 * [call、apply、bind实现](JavaScript/call、apply、bind实现)
-* [Images](/hexo-theme-book-demo/test/hexo-unit-test/images)
-* [Untitled](/hexo-theme-book-demo/test/hexo-unit-test/link-post-without-title)
-* [Link Post](/hexo-theme-book-demo/test/hexo-unit-test/link-post)
-* [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.](/hexo-theme-book-demo/test/hexo-unit-test/long-title)
-* [Untitled](/hexo-theme-book-demo/test/hexo-unit-test/no-title)
-* [Tag Plugins](/hexo-theme-book-demo/test/hexo-unit-test/tag-plugins)
-* [Tags](/hexo-theme-book-demo/test/hexo-unit-test/tags)
-* [Videos](/hexo-theme-book-demo/test/hexo-unit-test/videos)
-* [中文測試](/hexo-theme-book-demo/test/hexo-unit-test/中文測試)
-* [日本語テスト](/hexo-theme-book-demo/test/hexo-unit-test/日本語テスト)
+* [原型、原型链](JavaScript/原型、原型链)
+
 
 ## CSS相关
 
