@@ -36,7 +36,7 @@ Function.prototype.myApply = function(context, arr) {
 };
 ```
 
-# call模拟实现
+# bind模拟实现
 > 与apply和call不同的是，该方法并不会执行被绑定函数，而是返回一个改变this指向后的函数。
 ```
 Function.prototype.myBind = function(context) {
